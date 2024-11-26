@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ejercicio01SharedPrefTeoria07</string>
+    <string name="login_main">LOGIN</string>
+    <string name="usuario_main">Usuario</string>
+    <string name="password_main">Password</string>
+    <string name="eliminar_login_second">ELIMINAR LOGIN</string>
+</resources>
